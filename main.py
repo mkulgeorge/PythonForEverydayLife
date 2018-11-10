@@ -1,5 +1,5 @@
-def greet(name):
+def greet_me(name):
     print('Hello {}',format(name))
 
 
-greet("George")
+greet_me("George")
